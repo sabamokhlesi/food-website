@@ -1,3 +1,3 @@
 
-you can click on the link below to see my website
+you can click on this link to see my website
 [My Food Website](https://sabamokhlesi.github.io/food-website/)
