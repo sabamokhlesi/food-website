@@ -1,0 +1,81 @@
+@media only screen and (max-width:1200px){
+    .row {padding: 0 2%;}
+    .margin-remove{ 
+        width: 100%;  
+        padding-right: 30%;
+        padding-left: 30%;
+        margin: 0;
+        margin-bottom: 10%;
+    }
+    .plan-box{
+        margin:0;
+        width: 100%;
+    }
+    .cities-box{
+        padding: 1%;
+    }
+    .main-nav li a {font-size: 80%;}
+}
+
+@media only screen and (max-width:1023px){
+    body{ font-size : 18px; }
+    section{ padding: 60px 0;}
+    .long-copy{
+        width: 80%;
+        margin-left: 10%;
+    }
+    .steps-box{ margin-top: 40px;}
+    .steps-box:last-child{margin-top: 10px;}
+    .works-steps{ margin-bottom: 40px;}
+    .works-steps:last-of-type{ margin-bottom: 60px;}
+    .app-screen{width: 50%;}
+    .review-box{
+        width: 100%;  
+        padding-right: 10%;
+        padding-left: 10%;
+        margin: 0;
+        margin-bottom: 10%;
+    }
+    .contact-form{ width: 85%;}
+    .steps-number{ float: none; margin: 10% auto;}
+    .btn-app img{ width: 30%; }
+    .cities-box{ padding: 0%;}
+    h1{ font-size: 200%;}
+    .main-nav li a {font-size: 50%; display: block;}
+    .main-nav{display: none; text-align: center; margin-right: 3%;}
+    .main-nav li{display: block; padding: 0;}
+    .mobile-nav-icon{display: inline-block;}
+}
+
+@media only screen and (max-width:767px){
+    .margin-remove{  
+        padding-right: 17%;
+        padding-left: 17%;
+    }
+    .main-nav li a {font-size: 50%;}
+    .contact-form{ width: 90%;}
+    .steps-responsive{
+        width: 100%;  
+        padding:10% 15%;
+        margin: 0;
+    }
+
+    .cities-box{
+        width: 100%;  
+        padding:10% 15%;
+        margin: 0 auto;
+    }
+    .meals-showcase li{width: 50%;}
+    h1{ font-size: 190%;}
+}
+
+@media only screen and (max-width:480px){
+    .margin-remove{   
+        padding-right: 5%;
+        padding-left: 5%;
+    }
+    .contact-form{ width: 100%;}
+    h1{ font-size: 170%;}
+    .main-nav li a {font-size: 30%;}
+    .main-nav li {display: flex;}
+}
