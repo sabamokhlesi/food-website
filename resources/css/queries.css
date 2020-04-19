@@ -79,6 +79,10 @@
         padding-right: 5%;
         padding-left: 5%;
     }
+    .footer li{
+        display: inline;
+        padding: 2%;
+    }
     .contact-form{ width: 100%;}
     h1{ font-size: 170%;}
     .main-nav li a {font-size: 30%;}
