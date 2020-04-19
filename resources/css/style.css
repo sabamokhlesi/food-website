@@ -505,8 +505,9 @@ input[type = checkbox]{
 /* footer */
 footer{
  background-color: rgba(0, 0, 0, 0.726);
- padding: 3%;
+ padding: 1%;
  font-size: 90%;
+ width: 100%;
 }
 
 footer ion-icon{
@@ -515,15 +516,13 @@ footer ion-icon{
 
 .footer-nav{
     list-style: none;
-    float: left;
-    margin: 0;
+    margin: auto;
     margin-bottom: 5%;
 }
 
 .social-icons{
     list-style: none;
-    float: right;
-    margin: 0;
+    margin: auto;
 }
 
 footer li{
