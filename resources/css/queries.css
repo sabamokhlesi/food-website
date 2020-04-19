@@ -41,6 +41,11 @@
     .btn-app img{ width: 30%; }
     .cities-box{ padding: 0%;}
     h1{ font-size: 200%;}
+    .main-nav li a:link,
+    .main-nav li a:visited{
+        padding-bottom: 3px;
+    }
+
     .main-nav li a {font-size: 50%; display: block;}
     .main-nav{display: none; text-align: center; margin-right: 3%;}
     .main-nav li{display: block; padding: 0;}

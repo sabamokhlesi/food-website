@@ -150,6 +150,7 @@ header nav{
     border-radius: 50%;
     transition: border 0.35s;
     padding-bottom: 15px;
+    margin-bottom: 15%;
 }
 
 .main-nav li a:hover,
